@@ -1,9 +1,11 @@
-CRUD Clientes e Contratos
+CRUD Clients and Contracts
 ====================
 
-Teste de sistema simples com CRUD usando PHP, Orientação à Objeto e padrão MVC (model, view, controller)
+Simple system test with CRUD using PHP, Object Oriented and MVC (model, view, controller) pattern.
 
-Instalação:
-* Importar o banco de dados 'database.sql'
-* Informar caminho do ROOT_PATH e BASE_URL no arquivo 'model/Autoloader.php'
-* Inserir informações de conexão no arquivo 'model/Database.php'
+Install Info:
+* Import MySQL database 'database.sql'
+* Inform ROOT_PATH and BASE_URL in: 'model/Autoloader.php'
+* Insert database connection info in: 'model/Database.php'
+
+Be happy :)
